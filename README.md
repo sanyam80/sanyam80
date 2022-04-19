@@ -8,7 +8,7 @@
 
 - 📫 Reach out to me at: **sanyamkangtani803@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>   <img src = "https://cutewallpaper.org/22/eat-sleep-code-repeat-wallpapers/eat-sleep-code-repeat-tips-for-budding-programmers-by-justin-wu--medium.jpeg>
 <p align="left">
 <a href="https://twitter.com/kangtanisanyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kangtanisanyam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanyamkangtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanyamkangtani/" height="30" width="40" /></a>
