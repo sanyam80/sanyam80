@@ -2,9 +2,9 @@
 
  
 <h1 align="center">Hi 👋, I'm Sanyam Kangtani</h1>
-<h3 align="center">A passionate Full Stack Web Developer. I love to build Web application using Mern Stack.</h3>
+<h3 align="center">I am a  Frontend Web Developer. I love to build Web application using Web Technologies.</h3>
 
-- 
+
 
 - 📫 Reach out to me at: **sanyamkangtani803@gmail.com**
 
